@@ -61,8 +61,6 @@ Feature: Verify New User Functionality
     Given Go to Tribel.com
     Then Click on Sign-in
 
-
-
   @NonUser
   Scenario: TID 012: Check if the non user can like on posts in feed
     Given Go to Tribel.com
