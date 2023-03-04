@@ -66,6 +66,7 @@ Feature: Verify New User Functionality
     Given Go to Tribel.com
     Then Click like on posts in the feed
 
+
   @NonUser
   Scenario: TID 013: Check if the non user can comment on any posts
     Given Go to Tribel.com
