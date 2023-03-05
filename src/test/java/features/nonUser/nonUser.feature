@@ -72,7 +72,6 @@ Feature: Verify New User Functionality
     Given Go to Tribel.com
     Then Click on comment on any posts
 
-
   @NonUser
   Scenario: TID 014: Check if the non user can share post on Tribel
     Given Go to Tribel.com
