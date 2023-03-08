@@ -78,7 +78,6 @@ Feature: Verify New User Functionality
     When Click on posts to share
     Then Click share on tribel
 
-
   @NonUser
   Scenario: TID 015: Check if the non user can share post on Facebook
     Given Go to Tribel.com
